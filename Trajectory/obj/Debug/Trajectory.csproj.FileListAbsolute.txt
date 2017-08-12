@@ -1,0 +1,6 @@
+d:\users\hou sheng chiang\documents\visual studio 2017\Projects\Trajectory\Trajectory\bin\Debug\Trajectory.exe.config
+d:\users\hou sheng chiang\documents\visual studio 2017\Projects\Trajectory\Trajectory\bin\Debug\Trajectory.exe
+d:\users\hou sheng chiang\documents\visual studio 2017\Projects\Trajectory\Trajectory\bin\Debug\Trajectory.pdb
+d:\users\hou sheng chiang\documents\visual studio 2017\Projects\Trajectory\Trajectory\obj\Debug\Trajectory.csprojResolveAssemblyReference.cache
+d:\users\hou sheng chiang\documents\visual studio 2017\Projects\Trajectory\Trajectory\obj\Debug\Trajectory.exe
+d:\users\hou sheng chiang\documents\visual studio 2017\Projects\Trajectory\Trajectory\obj\Debug\Trajectory.pdb
